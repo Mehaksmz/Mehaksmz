@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mehak Shameer
-🎓 Final Year BSc Computer Science (Artificial Intelligence) student at Heriot-Watt University.<br>🤝 Actively looking to collaborate on projects and contribute to innovative ideas.<br>🏆 Participated in hackathons, working in fast-paced, team-based environments.<br>🛠️ Experience as a Tech Intern, contributing to real development workflows.<br>💬 Feel free to reach out if you’d like to build something together!
+ Final Year BSc Computer Science (Artificial Intelligence) student at Heriot-Watt University.<br> Actively looking to collaborate on projects and contribute to innovative ideas.<br> Participated in hackathons, working in fast-paced, team-based environments.<br> Experience as a Tech Intern, contributing to real development workflows.<br> Feel free to reach out if you’d like to build something together!
 
 
 ## 🌐 Socials:
